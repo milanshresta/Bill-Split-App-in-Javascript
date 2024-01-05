@@ -1,2 +1,2 @@
 # Bill-Split-App-in-Javascript
-### Basics HTML/CSS and JS
+### Using basics HTML/CSS and JS
