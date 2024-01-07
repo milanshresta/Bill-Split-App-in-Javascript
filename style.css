@@ -4,4 +4,19 @@
     box-sizing: border-box;
     margin: 0%;
     padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.h1 {
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+input {
+    height: 2.5rem;
+    border-radius: .5rem;
 }
